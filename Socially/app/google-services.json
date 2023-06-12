@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900313809303",
+    "project_id": "socially-c8643",
+    "storage_bucket": "socially-c8643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900313809303:android:643a23bbab74749cd484d2",
+        "android_client_info": {
+          "package_name": "com.harsh.socially"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900313809303-b7530sgo06jgkl790rn44h2aolaefgkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BSv4FMfnLht6agHnKFpv8RCm3JFhjLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900313809303-b7530sgo06jgkl790rn44h2aolaefgkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
